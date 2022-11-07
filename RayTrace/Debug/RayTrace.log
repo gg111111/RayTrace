@@ -1,0 +1,4 @@
+﻿  RayTrace.cpp
+C:\Users\Administrator\Desktop\RayTrace\RayTrace\RayTrace.cpp(3,9): warning C4068: 未知的杂注“one”
+C:\Users\Administrator\Desktop\RayTrace\RayTrace\Color.h(1,9): warning C4068: 未知的杂注“one”
+  RayTrace.vcxproj -> C:\Users\Administrator\Desktop\RayTrace\RayTrace\Debug\RayTrace.exe
